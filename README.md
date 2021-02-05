@@ -2,21 +2,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kapelianovych?label=Twitter&style=social)
 
-<!--
-**YevhenKap/YevhenKap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=YevhenKap.YevhenKap)
 
 I am full-stack, self employed (🙊 simply have no job) web developer. I love programming, books and my girlfriend ☺️.
@@ -32,6 +17,4 @@ As a web developer, I try to think different, search for simple and comprehensiv
 
 📈 My GitHub stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YevhenKap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YevhenKap)](https://github.com/YevhenKap/YevhenKap)
+<img height="200em;" src="https://github-readme-stats.vercel.app/api?username=YevhenKap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="200em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YevhenKap&langs_count=10&layout=compact" />
